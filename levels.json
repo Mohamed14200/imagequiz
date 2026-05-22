@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "answer": "تفاحة",
+    "image": "https://images.unsplash.com/photo-1560806887-1e4cd0b6cbd6?w=600&auto=format&fit=crop&q=80",
+    "hintDescription": "فاكهة مقرمشة تحتوي على بذور، مشهورة بلونها الأحمر أو الأخضر.",
+    "category": "فواكه"
+  },
+  {
+    "id": 2,
+    "answer": "قهوة",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&auto=format&fit=crop&q=80",
+    "hintDescription": "مشروب الصباح المفضل لدى الملايين، يُصنع من حبوب محمصة.",
+    "category": "مشروبات"
+  },
+  {
+    "id": 3,
+    "answer": "كتاب",
+    "image": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?w=600&auto=format&fit=crop&q=80",
+    "hintDescription": "مجموعة من الورق المطبوع تجمع بين دفتيها العلم والروايات.",
+    "category": "أدوات"
+  },
+  {
+    "id": 4,
+    "answer": "سيارة",
+    "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?w=600&auto=format&fit=crop&q=80",
+    "hintDescription": "وسيلة نقل حديثة تسير على أربع عجلات ولها محرك.",
+    "category": "مواصلات"
+  },
+  {
+    "id": 5,
+    "answer": "قمر",
+    "image": "https://images.unsplash.com/photo-1522030299830-16b8d3d049fe?w=600&auto=format&fit=crop&q=80",
+    "hintDescription": "جرم سماوي يضيء الليل ويعكس ضوء الشمس، ويبدو جميلاً ومكتملاً في منتصف الشهر.",
+    "category": "فضاء"
+  },
+  {
+    "id": 6,
+    "answer": "كاميرا",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&auto=format&fit=crop&q=80",
+    "hintDescription": "أداة تُستخدم لالتقاط اللحظات وتجميد الذكريات في صورة.",
+    "category": "تكنولوجيا"
+  },
+  {
+    "id": 7,
+    "answer": "قطة",
+    "image": "https://images.unsplash.com/photo-1514888286974-6c03e2ca1dba?w=600&auto=format&fit=crop&q=80",
+    "hintDescription": "حيوان أليف يحب اللعب والمواء وذو فراء ناعم ورشاقة عالية.",
+    "category": "حيوانات"
+  },
+  {
+    "id": 8,
+    "answer": "مفتاح",
+    "image": "https://images.unsplash.com/photo-1582139329536-e7284fece509?w=600&auto=format&fit=crop&q=80",
+    "hintDescription": "أداة معدنية صغيرة تُستخدم لفتح الأبواب والأقفال المغلقة.",
+    "category": "أدوات"
+  },
+  {
+    "id": 9,
+    "answer": "شمس",
+    "image": "https://images.unsplash.com/photo-1528181304800-2f1258bb9afe?w=600&auto=format&fit=crop&q=80",
+    "hintDescription": "النجم المركزي لـمجموعتنا الشمسية، يمد الأرض بالدفء والضوء والحياة.",
+    "category": "فضاء"
+  },
+  {
+    "id": 10,
+    "answer": "ساعة",
+    "image": "https://images.unsplash.com/photo-1508962914676-134849a727f0?w=600&auto=format&fit=crop&q=80",
+    "hintDescription": "أداة لضبط وتنظيم الوقت وحساب الساعات والدقائق ولها عقارب تدور دائماً.",
+    "category": "أدوات"
+  }
+]
